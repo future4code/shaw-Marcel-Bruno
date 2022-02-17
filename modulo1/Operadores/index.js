@@ -22,6 +22,7 @@
 
 //3. inserir o comando Number antes do comando prompt para que seja identificado como número.
 
+
 let idadeusuario = Number(prompt("Qual a sua idade?"))
 let idadeamigo = Number(prompt("Qual a idade do seu melhor amig(a)?"))
 
@@ -31,6 +32,15 @@ let numeroPar = Number(prompt("Insira um número par"))
 let divisao = 2
 let resultado = numeroPar / divisao
 console.log(resultado)
+//let idadeusuario = Number(prompt("Qual a sua idade?"))
+//let idadeamigo = Number(prompt("Qual a idade do seu melhor amig(a)?"))
+
+//console.log("Sua idade é maior do que a do seu amigo?", idadeusuario > idadeamigo)
+
+//let numeroPar = Number(prompt("Insira um número par"))
+//let divisao = 2
+//let resultado = numeroPar / divisao
+//console.log(resultado)
 
 //C) divisão exata
 //d) divisão com casas decimais
@@ -39,6 +49,10 @@ let idadeusuariomeses = Number(prompt("Qual a sua idade em meses?"))
 let idadeemdias = Number(prompt("Qual sua idade em dias?"))
 let idadeemhoras = Number(prompt("Qual a sua idade em hhoras?"))
 console.log("você tem", idadeusuariomeses,"meses ,", idadeemdias, "dias ,", idadeemhoras, "horas")
+//let idadeusuariomeses = Number(prompt("Qual a sua idade em meses?"))
+//let idadeemdias = Number(prompt("Qual sua idade em dias?"))
+//let idadeemhoras = Number(prompt("Qual a sua idade em hhoras?"))
+//console.log("você tem", idadeusuariomeses,"meses ,", idadeemdias, "dias ,", idadeemhoras, "horas")
 
 let numeroum = Number(prompt("digite um numero de 10 até 20"))
 let numerodois = Number(prompt("digite um número abaixo de 10 que seja divisivel pelo primeiro número?"))
