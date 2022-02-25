@@ -117,4 +117,3 @@ const produtos = [
 //const bebidas = produtos.filter((item, index, array) => {
 //   return  
 //})
-// teste
