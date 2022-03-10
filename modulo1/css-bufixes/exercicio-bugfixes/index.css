@@ -137,6 +137,11 @@ button:hover{
     background-color: #fe7e02;
 }
 
+.button{
+    border-top: 20px 20px;
+    
+}
+
 
 .alinhamentoTexto {
     text-align: center;
