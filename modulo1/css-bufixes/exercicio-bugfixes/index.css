@@ -129,6 +129,15 @@ td button {
  height="60px";
 }
 
+.button:active{
+    color: white;
+}
+
+button:hover{
+    background-color: #fe7e02;
+}
+
+
 .alinhamentoTexto {
     text-align: center;
 }
