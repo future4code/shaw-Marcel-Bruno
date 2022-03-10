@@ -125,6 +125,10 @@ td button {
 
 }
 
+.tamanhoImagem {
+ height="60px";
+}
+
 .alinhamentoTexto {
     text-align: center;
 }
